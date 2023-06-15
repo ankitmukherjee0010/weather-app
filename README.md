@@ -1,3 +1,3 @@
 ## Weather app using Express and ejs
 
-You can check current weather for every city in the world
+We can check the current weather for every city in the world
